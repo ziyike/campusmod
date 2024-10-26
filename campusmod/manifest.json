@@ -1,0 +1,10 @@
+{
+  "Name": "campusmod",
+  "Author": "lonesailatdusk",
+  "Version": "0.0.1",
+  "Description": "testing campus mod",
+  "UniqueID": "lonesailatdusk.campusmod",
+  "EntryDll": "campusmod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

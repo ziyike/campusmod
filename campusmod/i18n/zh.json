@@ -1,0 +1,5 @@
+{
+  // example translations
+  "item-type.label": "Item type",
+  "item-type.fruit-tree": "{{fruitName}} tree"
+}
